@@ -2,7 +2,7 @@
 
 The objective of this project was to clean and prepare a raw sales dataset for analysis. The dataset contains information related to products, referral sources, payment methods, coupon usage, customer transactions, and revenue performance.
 
-#Cleaning Techniques Used:
+## Cleaning Techniques Used:
 
 Removed duplicate records
 Corrected inconsistent date formats
