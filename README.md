@@ -1,8 +1,8 @@
-##Project Objective:
+## Project Objective:
 
 The objective of this project was to clean and prepare a raw sales dataset for analysis. The dataset contains information related to products, referral sources, payment methods, coupon usage, customer transactions, and revenue performance.
 
-##Cleaning Techniques Used:
+#Cleaning Techniques Used:
 
 Removed duplicate records
 Corrected inconsistent date formats
@@ -14,11 +14,11 @@ Missing Value Handling
 
 Missing values were identified in the CouponCode column and replaced appropriately to maintain dataset completeness and analytical reliability.
 
-##Duplicates Removed:
+## Duplicates Removed:
 
 Duplicate transaction records were identified and removed to improve data accuracy and prevent incorrect analytical results.
 
-##Formatting Corrections:
+## Formatting Corrections:
 
 Standardized date formatting
 Corrected numeric and currency fields
